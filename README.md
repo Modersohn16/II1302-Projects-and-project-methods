@@ -2,9 +2,13 @@
 Detta är ett projekt för kursen II1302, projekt och projektmetoder som har gjorts av grupp 7. 
 
 # Grupp 7 består av:  
-*Sanaz Hassanzadeh (projektledare). 
-*Ines Rakoczy (Utvecklingansvarig). 
-*Daniel Mebrahtu (Kundansvarig).	 
-*Oscar Lundström(Arkitekt).   
-*Mailad Waled (Testansvarig).   
+Sanaz Hassanzadeh (projektledare). 
+
+Ines Rakoczy (Utvecklingansvarig). 
+
+Daniel Mebrahtu (Kundansvarig).	 
+
+Oscar Lundström(Arkitekt).   
+
+Mailad Waled (Testansvarig).   
 
