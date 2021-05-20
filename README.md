@@ -4,11 +4,9 @@ Detta är ett projekt för kursen II1302, projekt och projektmetoder som har gjo
 # Grupp 7 består av:  
 Sanaz Hassanzadeh (projektledare). 
 
-Ines Rakoczy (Utvecklingansvarig). 
-
 Daniel Mebrahtu (Kundansvarig).	 
 
 Oscar Lundström(Arkitekt).   
 
-Mailad Waled (Testansvarig).   
+Mailad Waled (System utcecklare,Testansvarig).   
 
